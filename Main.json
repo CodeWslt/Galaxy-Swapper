@@ -2,5 +2,6 @@
    "Database":{
       "UpdateVersion":"v2.191",
       "ApiURL":"https://cdn.discordapp.com/attachments/820300740815093810/825166538678992946/Main",
+      "BlackList":"254291968895483906|525777667992322049",
    }
 }
